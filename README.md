@@ -1,7 +1,7 @@
 # Hi, I'm Michael Obademi 👋
 
 **Principal Backend, Cloud Security & Web3 Payments Engineer**  
-* Lead Architect at [Paystrater](https://paystrater.com) | 0-to-1 Systems Architect*
+* Lead Architect at [Paystrater](https://paystrater.com) | scratch-to-production Systems Architect*
 
 I design and build zero-vulnerability cloud backends, self-custodial smart account payment infrastructure, and Model Context Protocol (MCP) servers enabling AI agents to execute financial transactions safely.
 
